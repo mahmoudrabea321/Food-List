@@ -36,11 +36,12 @@ This project allows users to manage a list of foods, making it useful for meal p
    cd food-list
 ````
 
-2. **Install dependencies**
+2. ## 🚀 Live Demo
+🔗 [View on Vercel](https://food-list1.pages.dev/)
 
-   ```bash
-   npm install
-   ```
+
+---
+
 
 3. **Run the app locally**
 
