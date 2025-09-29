@@ -67,13 +67,6 @@ food-list/
 │-- README.md
 ```
 
----
-
-## 📸 Screenshots
-
-*Add screenshots of your Food List App here.*
-
----
 
 ## 📜 License
 
